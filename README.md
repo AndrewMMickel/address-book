@@ -10,7 +10,7 @@ _Using a javascript constructor, this script allows you to make an address book_
 
 ## Setup/Installation Requirements
 
-*Download the files from []() and save it in a folder
+*Download the files from [https://github.com/AndrewMMickel/address-book](https://github.com/AndrewMMickel/address-book) and save it in a folder
 *Be sure you have boostraps downloaded on your computer. You can get the latest version from [https://getbootstrap.com](https://getbootstrap.com/docs/3.4/css/)
 *Also be sure you have JQuery saved to a folder on your computer somewhere. You can download it at [jquery.com](jquery.com/download/)
 
